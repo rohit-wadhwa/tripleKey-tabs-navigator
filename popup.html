@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>TripleKey Tabs Navigator</title>
+    <link href="popup.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <h1>TripleKey Tabs Navigator</h1>
+    <div>
+        <select id="slotSelect">
+            <option value="0">Slot 0 (Ctrl + Shift + 0)</option>
+            <option value="1">Slot 1 (Ctrl + Shift + 1)</option>
+            <option value="2">Slot 2 (Ctrl + Shift + 2)</option>
+        </select>
+        <input type="text" id="urlDisplay" disabled placeholder="URL will appear here">
+        <!-- Hidden span for storing the current tab's title -->
+        <span id="titleDisplay" style="display: none;"></span>
+        <button id="markTabButton">
+            <img src="images/plus.png" alt="Icon"> Mark This Tab
+        </button>
+    </div>
+    <div id="shortcutList">
+        <!-- Shortcuts will be dynamically populated -->
+    </div>
+    <!-- Instructions for the user -->
+    <div id="shortcut-instructions">
+        <span>To quickly access it press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Y</kbd>, then press <kbd>Enter</kbd> to add a tab to the default slot.</span>
+    </div>
+    <div id="supportText">
+        <p>If you've found my work helpful or valuable, please consider supporting me by buying me a coffee.</p>
+        <a class="coffee-link" href="https://www.buymeacoffee.com/rohit.wadhwa" target="_blank">Buy Rohit Wadhwa a Coffee</a>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
