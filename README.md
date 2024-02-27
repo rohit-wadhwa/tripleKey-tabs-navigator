@@ -1,5 +1,5 @@
 # TripleKey Tabs Navigator
-![TripleKey Tabs Navigator](imahges/banner.png)
+![TripleKey Tabs Navigator](images/banner.png)
 
 TripleKey Tabs Navigator is a Chrome extension designed to enhance productivity and efficiency in web navigation. It enables users to quickly access their most frequently used tabs through customizable keyboard shortcuts, reducing the need for mouse navigation and streamlining their workflow.
 
