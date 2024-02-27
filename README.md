@@ -58,6 +58,8 @@ Having trouble with TripleKey Tabs Navigator? Contact me, and I'll be happy to h
 <a href="https://github.com/rohit-wadhwa" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
 <a href="https://about.me/rohit.wadhwa" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
 
+[![Github Hits](https://hits.sh/github.com/rohit-wadhwa/tripleKey-tabs-navigator.svg)](https://github.com/rohit-wadhwa/tripleKey-tabs-navigator/)
+
 ## Acknowledgements
 
 Project Link: [https://github.com/rohit-wadhwa/tripleKey-tabs-navigator](https://github.com/rohit-wadhwa/tripleKey-tabs-navigator)
