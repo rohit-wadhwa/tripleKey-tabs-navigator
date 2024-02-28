@@ -13,6 +13,10 @@ TripleKey Tabs Navigator is a Chrome extension designed to enhance productivity 
 
 Professionals who require quick access to specific tools or websites throughout their workday will find TripleKey Tabs Navigator invaluable. Whether it's opening their email client, project management tool, or a frequently used development environment, this extension ensures that these essential resources are just a keystroke away, enhancing productivity and focus.
 
+## Demo 
+
+[![Incognito Tab Mover](https://img.youtube.com/vi/5vKnWAbwz_o/0.jpg)](https://youtu.be/5vKnWAbwz_o)
+
 ## Installation
 
 Coming soon to the Chrome Web Store.
