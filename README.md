@@ -44,6 +44,9 @@ Note: Depending on the extension's requirements, you may need to allow it in inc
 
 If you've found TripleKey Tabs Navigator helpful or valuable, please consider [supporting further development](https://www.buymeacoffee.com/rohit.wadhwa).
 
+<a href="https://www.buymeacoffee.com/rohit.wadhwa"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rohit.wadhwa&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+
 ## Contributing
 
 Your contributions are welcome! Whether it's bug reports, feature suggestions, or code contributions, they all help improve the project. Please feel free to fork the repo, create your feature branch, commit your changes, and open a pull request.
