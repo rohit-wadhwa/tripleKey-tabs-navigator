@@ -18,12 +18,9 @@ Professionals who require quick access to specific tools or websites throughout 
 [![Incognito Tab Mover](https://img.youtube.com/vi/5vKnWAbwz_o/0.jpg)](https://youtu.be/5vKnWAbwz_o)
 
 ## Installation
+[![Chrome Web Store installation link](images/image.png)](https://chromewebstore.google.com/detail/triplekey-tabs-navigator/oaaldjnbaamolmkofeeibjeebllfkjfj)
 
-Coming soon to the Chrome Web Store.
-
-For direct installation in Chrome, you can either download the zip file from the [GitHub repository's release page](https://github.com/rohit-wadhwa/tripleKey-tabs-navigator/releases) or use the following link to download the latest source code:
-
-[Download the zip](https://github.com/rohit-wadhwa/tripleKey-tabs-navigator/archive/master.zip)
+Click above image for Chrome Web Store installation link or direct install in Chrome.
 
 ### Install it from source
 
